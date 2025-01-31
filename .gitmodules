@@ -1,0 +1,9 @@
+[submodule "chat-app"]
+	path = chat-app
+	url = https://github.com/ashishsaini0/microfrontend-poc.git
+[submodule "email-app"]
+	path = email-app
+	url = https://github.com/ashishsaini0/microfrontend-poc.git
+[submodule "host-app"]
+	path = host-app
+	url = https://github.com/ashishsaini0/microfrontend-poc.git
