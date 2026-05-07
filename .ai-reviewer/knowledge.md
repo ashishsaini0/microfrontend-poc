@@ -18,3 +18,4 @@ This codebase implements a micro-frontend architecture using Module Federation w
 - **Dependency Management**: Given the versioning of React and related libraries, be cautious of potential issues arising from mismatched versions if libraries are updated in one app but not others.
 - **TypeScript Errors**: With strict TypeScript configurations in place, ensure that any new code follows the same strict typing practices to prevent build breaks.
 - **Bundling Issues**: When modifying the shared libraries in Module Federation, double-check the `shared` configuration to avoid runtime errors caused by multiple versions of dependencies being loaded.
+-
